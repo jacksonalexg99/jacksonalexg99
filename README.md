@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/kiani_org" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="kiani77777@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/?authuser=kiani77777@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="right">درباره من👩‍💻</h3>
+<h3 align="right">👩‍💻درباره من</h3>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="center">زبان و ابزار های که باهاش کار میکنم🛠</h3>
+<h3 align="center">🛠زبان و ابزار های که باهاش کار میکنم</h3>
 
 ###
 
