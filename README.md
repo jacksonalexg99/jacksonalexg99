@@ -58,8 +58,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
