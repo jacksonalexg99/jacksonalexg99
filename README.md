@@ -95,8 +95,7 @@ My focus is genuinely tailored solutions rather than off-the-shelf templates: ev
 ### 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacksonalexg99&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksonalexg99&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="top languages" />
+  <img src="https://streak-stats.demolab.com/?user=jacksonalexg99&theme=dracula&hide_border=true" alt="GitHub streak" />
 </div>
 
 <p align="center"><sub>🌐 Languages: Persian (native) · English (intermediate)</sub></p>
